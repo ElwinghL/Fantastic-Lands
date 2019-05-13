@@ -1,0 +1,33 @@
+{
+  "name": "fantastic-lands",
+  "version": "1.0.0",
+  "description": "A text based RPG with RP and dices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElwinghL/Fantastic-Lands.git"
+  },
+  "keywords": [
+    "RPG",
+    "TEXT",
+    "RP",
+    "Dices"
+  ],
+  "author": "ElwinghL",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ElwinghL/Fantastic-Lands/issues"
+  },
+  "homepage": "https://github.com/ElwinghL/Fantastic-Lands#readme",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "dotenv": "^8.0.0",
+    "http": "0.0.0",
+    "rethinkdbdash": "^2.3.31",
+    "socket.io-client": "^2.2.0"
+  }
+}
