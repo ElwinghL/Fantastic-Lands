@@ -1,0 +1,11 @@
+{
+    "name": "Nom",
+    "stats": {
+        "STR": 40,
+        "DEX": 40,
+        "INT": 40,
+        "CHA": 40,
+        "PER": 40
+    },
+    "race": "NONE"
+}
